@@ -8,3 +8,4 @@ Project focuses on making html boilerplate, utilizing internal links and images,
 
 Future improvements: 
 >Add links that go back to main page. Clicking a recipe leads to a dead end page. 
+>Images should be separate from html page files, add separate directory for resources
